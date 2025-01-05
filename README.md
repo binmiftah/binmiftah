@@ -14,7 +14,13 @@ I started out as an _ignorant critter_ in the world of programming until one day
 I started with Ms Word, Excel and Powerpoint. Then I moved to graphic design using CorelDraw. After learning CorelDraw was when I was introduced to HTML and CSS of whuch I only learnt the basics then returned back to school as I was still a Senior secondary student at that time.
 
 Long story cut short, I was back to coding after graduating high school. I began learning advanced CSS, Bootstrap, SQL(mySQL) and data cleaning.
-Currently I'm working on completing Javascript and React JS.
+Currently I'm working on completing Vue JS and perfecting my React JS.
+
+## Here are some of my projects:
+[Omoogboye](https://omoogboye.netlify.app/)
+[Black Jack](https://blackjack-binmiftah.netlify.app/)
+[Exchage Rate](https://exchange-rate-binmiftah.netlify.app/)
+[Zero Interest Landing Page](https://zerointerestlandingpage.netlify.app/)
 
 I hope I'm not hindered by anything. Make it easy for me Yaa Rabb🤲
 
